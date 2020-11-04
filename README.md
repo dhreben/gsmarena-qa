@@ -1,3 +1,4 @@
+test
 ### Getting started
 * Install and configure JDK 1.8+
 * Install and configure [Apache Maven 3.5.2+](http://maven.apache.org/)
